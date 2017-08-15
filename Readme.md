@@ -1,0 +1,2 @@
+# AngularJS Turtle Quiz
+This AngularJS Turtle Quiz was created via an [awesome tutorial](https://hungryturtlecode.com/code-projects/1-build-angular-quiz-app-scratch/) at [Hungry Turtle Code](https://hungryturtlecode.com/).
